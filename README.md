@@ -6,6 +6,7 @@ hangi tuşa atamak istiyorsak o tuşa basıyoruz ve artık uygulamadaki atanan t
 okuttuğumuz kumanda kodu taklid edilecektir. Uygulama üzerinde 14 adet atanabilir tuş bulunmaktadır. 3 çizgi ile
 gösterilen tuş bluetooth cihazlarını görüntülemektedir. Uygulamanın APK'sı ve  APP inventor çalışma dosyası bulunmaktadır.
 isteğinize uygun olarak geliştirebilirsiniz.
+NOT: Okutulan kumanda kodları program içerisinde uygun EEPROM adreslerine kaydedilmektedir. Yani cihaz kapatılıp açılsa dahi okutulan ve atanan tuşlar Arduino hafızasında tutulmaktadır. Daha önce okutulmuş bir kod yerine yenisini okutursanız uygulamadaki o tuşa ait kod silini ve yeni okutulan kumanda kodu kaydedilir.
 
 # IRremote kütüphanesi linki
 https://github.com/z3t0/Arduino-IRremote/tree/master/examples
