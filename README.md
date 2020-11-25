@@ -10,7 +10,7 @@ isteğinize uygun olarak geliştirebilirsiniz.
 Okutulan kumanda kodları program içerisinde uygun EEPROM adreslerine kaydedilmektedir. Yani cihaz kapatılıp açılsa dahi okutulan ve atanan tuşlar Arduino hafızasında tutulmaktadır. Daha önce okutulmuş bir kod yerine yenisini okutursanız uygulamadaki o tuşa ait kumanda kodu silinir ve yeni okutulan kumanda kodu kaydedilir.
 
 # IRremote kütüphanesi linki
-https://github.com/z3t0/Arduino-IRremote/tree/master/examples
+https://github.com/z3t0/Arduino-IRremote
 
 # Bluetooth modülü ayarlarını yapmak için
 https://maker.robotistan.com/hc05-hc06-bluetooth-uart-modulleri-kullanimi/
