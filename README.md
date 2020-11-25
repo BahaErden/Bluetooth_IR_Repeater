@@ -1,4 +1,6 @@
 # Bluetooth_IR_Repeater
+# NE İŞE YARAR?
+İstediğiniz herhangibir kızılötesi kumandayı telefon uygulaması ile koplayarak taklit edebilmenizi sağlar. Bu proje ile televizyonunuza bir akıllı kumanda yapabilirsiniz. Bu sayede televizyon fonksiyonlarını akıllı telefonlar ile sağlayabilirsiniz. 
 # NASIL ÇALIŞIR?
 Öncelikle uygulamayı bluetooth üzerinden bağlıyoruz. Daha sonra uygulamadaki "Teach Mode"
 tikini aktif ediyoruz. Hemen ardından alıcıya kopyalayacağımız tuşu okutuyoruz. Bu okunan kumanda kodunu uygulamadan 
