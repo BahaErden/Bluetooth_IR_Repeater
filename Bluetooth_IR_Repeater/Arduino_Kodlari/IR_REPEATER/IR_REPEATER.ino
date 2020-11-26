@@ -97,7 +97,7 @@ byte st = 0;
 SoftwareSerial bt(2, 4); // 2 > bt TX , 3 > bt RX
 String cumle = "";
 
-#include "reset.h";
+#include "reset.h"
 #include "bluetooth.h"
 #include "functions.h"
 
