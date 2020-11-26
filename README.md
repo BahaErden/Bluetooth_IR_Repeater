@@ -25,7 +25,5 @@ https://maker.robotistan.com/hc05-hc06-bluetooth-uart-modulleri-kullanimi/
 Kendi yaptığım devreme ait fotoğrafları, devre şemasını, uygulama APK'sı, uygulama düzenleme dosyasını ve tüm kodları dosyanın içerisinde bulabilirsiniz. Herkese iyi çalışmalar dilerim.
 
 # SOSYAL MEDYA HESAPLARIM
-# İnstagram 
-https://www.instagram.com/bahaerden/
-# Facebook
-https://www.facebook.com/baha.erden.12
+# İnstagram https://www.instagram.com/bahaerden/
+# Facebook https://www.facebook.com/baha.erden.12
