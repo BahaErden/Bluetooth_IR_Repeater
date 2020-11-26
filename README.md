@@ -14,6 +14,9 @@ Okutulan kumanda kodları program içerisinde uygun EEPROM adreslerine kaydedilm
 # IRremote kütüphanesi linki
 https://github.com/z3t0/Arduino-IRremote
 
+# UYARI!
+Eğer linkteki kütüphaneyi yükledikten sonra hata alıyorsanız onun yerine dosyalar içerisindeki "IRremote" isimli kütüphaneyi kurunuz. Bu kütüphan linkteki kütüphanenin daha eski bir sürümüdür.
+
 # Bluetooth modülü ayarlarını yapmak için
 https://maker.robotistan.com/hc05-hc06-bluetooth-uart-modulleri-kullanimi/
 
